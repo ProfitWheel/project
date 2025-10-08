@@ -24,15 +24,12 @@ You are expected to:
 * Sequence diagram (`.mmd`, `.png`, or `.pdf`).
 * 1-page explainer (`.md`, Google Doc link, etc.).
 * Risk & mitigation write-up (can be part of the explainer).
+* Record a 2–3 minute Loom explaining the flow to a hypothetical PM stakeholder.
 
 ## Reference material
 
 * [`docs/architecture_overview.md`](docs/architecture_overview.md)
 * [`docs/planned_vs_investigative.md`](docs/planned_vs_investigative.md)
 * [`docs/agent_catalog.md`](docs/agent_catalog.md)
-
-## Stretch goal (optional)
-
-* Record a 2–3 minute Loom explaining the flow to a hypothetical PM stakeholder.
 
 Happy reverse-engineering!
