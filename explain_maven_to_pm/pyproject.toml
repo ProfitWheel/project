@@ -1,0 +1,6 @@
+[project]
+name = "explain-maven-to-pm"
+version = "0.1.0"
+description = "Read-only comprehension exercise for Maven orchestration"
+requires-python = ">=3.11"
+dependencies = []
